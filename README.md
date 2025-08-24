@@ -10,6 +10,6 @@ Hi there  I'm Pavithra, a passionate learner diving into cloud computing, DevOps
 ## 📄 Resume
 Want to know more about my background and skills?
 
-📄 [Download My Resume](Pavithra M.pdf)
+📄 [Download My Resume](Pavithra_M.pdf)
 
 Stay tuned—projects coming soon!
